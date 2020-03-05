@@ -1,3 +1,0 @@
-http://localhost:8080/mail
-http://localhost:8080/mailer
-

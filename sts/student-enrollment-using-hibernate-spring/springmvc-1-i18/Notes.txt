@@ -1,3 +1,0 @@
-ref:
-http://www.concretepage.com/spring-4/spring-4-mvc-internationalization-i18n-and-localization-l10n-annotation-example
-
